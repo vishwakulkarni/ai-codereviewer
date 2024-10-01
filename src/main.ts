@@ -54,6 +54,7 @@ async function getDiff(
   });
   // @ts-expect-error - response.data is a string
   return response.data;
+  return response;
 }
 
 async function analyzeCode(
