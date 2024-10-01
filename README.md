@@ -10,6 +10,7 @@ review process.
 - Provides intelligent comments and suggestions for improving your code.
 - Filters out files that match specified exclude patterns.
 - Easy to set up and integrate into your GitHub workflow.
+- testing the changes
 
 ## Setup
 
