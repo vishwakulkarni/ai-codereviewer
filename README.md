@@ -52,6 +52,7 @@ jobs:
 5. Customize the `exclude` input if you want to ignore certain file patterns from being reviewed.
 
 6. Commit the changes to your repository, and AI Code Reviewer will start working on your future pull requests.
+7. testing new changes
 
 ## How It Works
 
